@@ -4,6 +4,8 @@
 ## About the project🧩
 This data science project series walks through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. 
 
+Overall, house price prediction is a challenging and rewarding data science project that requires a combination of technical skills and domain knowledge. By successfully completing this project, you can gain valuable experience in data cleaning, exploratory data analysis, feature engineering, model selection, and deployment, as well as develop a useful tool for the real estate industry.
+
 ## Technology and tools wise this project covers:
 - Python
 - Numpy and Pandas for data cleaning
